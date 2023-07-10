@@ -137,6 +137,6 @@ Milvus可以应用于多种场景，包括：
 
 Milvus的社区网站为：https://milvus.io/
 
-
+Milvus的GitHub地址为：https://github.com/milvus-io/milvus
 
 
