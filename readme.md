@@ -116,10 +116,27 @@ Java客户端的Maven地址为：https://search.maven.org/artifact/io.milvus/mil
 
 Milvus可以应用于多种场景，包括：
 
+- 人脸识别
+- 图像检索
+- 文本检索
+- 推荐系统
+- 智能客服
+- 智能医疗
+- 智能金融
+- 智能制造
+- 智能交通
+- 智能安防
+
+#### 6. Milvus案例
+
+##### 6.1. Milvus案例1
+
+##### 6.2. Milvus案例2
+
+#### 7. Milvus社区
+
+Milvus的社区网站为：https://milvus.io/
 
 
-##### 5.2. Milvus应用案例
-
-：
 
 
